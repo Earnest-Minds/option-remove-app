@@ -3,7 +3,7 @@
 client_id = "08e0909f65381451afd52709842ef151"
 name = "Option Remove App"
 handle = "option-remove-app"
-application_url = "https://openings-simulation-blocking-rational.trycloudflare.com"
+application_url = "https://option-remove-app.onrender.com"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-04"
 scopes = "write_products"
 
 [auth]
-redirect_urls = ["https://openings-simulation-blocking-rational.trycloudflare.com/auth/callback", "https://openings-simulation-blocking-rational.trycloudflare.com/auth/shopify/callback", "https://openings-simulation-blocking-rational.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://option-remove-app.onrender.com/auth/callback", "https://option-remove-app.onrender.com/auth/shopify/callback", "https://option-remove-app.onrender.com/api/auth/callback"]
 
 [pos]
 embedded = false
